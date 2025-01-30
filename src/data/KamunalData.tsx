@@ -1,0 +1,55 @@
+import img1 from '@/assets/img1.png';
+import img2 from '@/assets/img2.png';
+import img3 from '@/assets/img3.png';
+export const KamunalData = [
+	{
+		id: 1,
+		name: 'Ceramic Bowl',
+		rashod: 'Komunal',
+		rashodType: 'Svet',
+		vaqt: '16 : 30',
+		sana: '2025.06.03',
+		chiqim: '-12 000 000',
+		img: img1,
+	},
+	{
+		id: 2,
+		name: 'Ceramic Bowl',
+		rashod: 'Komunal',
+		rashodType: 'Svet',
+		vaqt: '16 : 30',
+		sana: '2025.06.03',
+		chiqim: '-12 000 000',
+		img: img2,
+	},
+	{
+		id: 3,
+		name: 'Ceramic Bowl',
+		rashod: 'Komunal',
+		rashodType: 'Svet',
+		vaqt: '16 : 30',
+		sana: '2025.06.03',
+		chiqim: '-12 000 000',
+		img: img3,
+	},
+	{
+		id: 4,
+		name: 'Ceramic Bowl',
+		rashod: 'Komunal',
+		rashodType: 'Svet',
+		vaqt: '16 : 30',
+		sana: '2025.06.03',
+		chiqim: '-12 000 000',
+		img: img1,
+	},
+	{
+		id: 5,
+		name: 'Ceramic Bowl',
+		rashod: 'Komunal',
+		rashodType: 'Svet',
+		vaqt: '16 : 30',
+		sana: '2025.06.03',
+		chiqim: '-12 000 000',
+		img: img2,
+	},
+];
